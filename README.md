@@ -14,7 +14,8 @@ I am a full stack developer with emphasis on frontend.
 <img src="https://img.shields.io/badge/html5-cf5533?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/sass-c76494?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/chakra-c76494?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/tailwind-c76494?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7735f9?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
