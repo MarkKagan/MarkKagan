@@ -37,6 +37,6 @@ I am a full stack developer with emphasis on frontend.
 <img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-### Stats
+<!-- ### Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MarkKagan&count_private=true&theme=tokyonight&showicons=true&line_height=33)]()
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKagan&langs_count=7&theme=tokyonight)]()
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKagan&langs_count=7&theme=tokyonight)]() -->
