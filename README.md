@@ -1,6 +1,8 @@
 # Hi there 🙌🏼
 
-I am a full stack developer with emphasis on frontend. 
+I am a full-stack developper living in Berlin.
+
+My attraction to software development stems both from my background as a musician and artist as well as my love for problem-solving and strategy games. For me, the development process is very artistic. Of course, there are tested patterns that get the job done, but they are constantly evolving and adapting, and this continuous process is fascinating to me.
 
 
 ### Languages
