@@ -16,8 +16,8 @@ My attraction to software development stems both from my background as a musicia
 <img src="https://img.shields.io/badge/html5-cf5533?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/chakra-c76494?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/tailwind-c76494?style=for-the-badge&logo=tailwind&logoColor=white">
+<img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
 ### Backend development
@@ -28,6 +28,7 @@ My attraction to software development stems both from my background as a musicia
 <img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
 
 ### Others
