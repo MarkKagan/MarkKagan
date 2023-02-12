@@ -17,7 +17,7 @@ My attraction to software development stems both from my background as a musicia
 <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/chakra-c76494?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/tailwind-c76494?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/tailwind-c76494?style=for-the-badge&logo=tailwind&logoColor=white">
 </p>
 
 ### Backend development
