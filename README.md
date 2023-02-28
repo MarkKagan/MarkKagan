@@ -29,6 +29,10 @@ My attraction to software development stems both from my background as a musicia
 <img src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://shields.io/badge/sequelize-45b6fe?style=for-the-badge&logo=sequelize&logoColor=1c4966">
+<img src="https://shields.io/badge/mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white">
+<img src="https://shields.io/badge/cloudinary-3792cb?style=for-the-badge&logo=cloudinary&logoColor=white">
+
 </p>
 
 ### Others
