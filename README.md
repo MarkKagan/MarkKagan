@@ -43,6 +43,7 @@ Since my early days in computational thinking and applied mathematics courses at
 <img src="https://img.shields.io/badge/cypress-1F2937?style=for-the-badge&logo=cypress&logoColor=white">
 <img src="https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black">
 <img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 <!-- ### Stats
