@@ -1,8 +1,10 @@
 # Hi there 🙌🏼
 
-I am a full-stack developper living in Berlin.
+Full Stack Developer focusing on the JavaScript Ecosystem
 
-My attraction to software development stems both from my background as a musician and artist as well as my love for problem-solving and strategy games. For me, the development process is very artistic. Of course, there are tested patterns that get the job done, but they are constantly evolving and adapting, and this continuous process is fascinating to me.
+Proficient with JavaScript, TypeScript, React, Next.js, Node.js, Express, Koa, Firebase, PostgreSQL, MongoDB, Redux, Jest and Docker.
+
+Since my early days in computational thinking and applied mathematics courses at the university, I have been inspired by ways in which technology helps improve the quality of every-day life.
 
 
 ### Languages
